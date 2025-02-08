@@ -1,14 +1,14 @@
 const febHolidays = [
-    "Dear Baby, please feel it",
+    "Dear Pranu Baby, please feel it",
     "Please ye pyaar ka cycle hai, achee se feel karna",
     "Dost bhi tum, pyaar bhi tum 😊",
     "ek bhi tum aur hazar bhi tum 🤩",
     "dukh me tum aur khushi me tum 🤨",
     "Jindagi ke safar me kaafi ho tum ❤",
-    "Maine shiddat se chaha hai tumhe, I love you❤️",
+    "Maine shiddat se chaha hai tumhe, I love you Bujji❤️",
     "You're my everything ✔",
     "You are my soulmate ✨💕",
-    "And of course... wait baby.....",
+    "And of course... wait Kanna.....",
     "My future wife🤭",
     "I will always be there for you",
     "No matter how far we are🥰",
@@ -40,7 +40,7 @@ const febHolidays = [
     "I'm binary in love; you're the one and only '1 in my life",
     "Thanks to God for helping us,ki hum logo ko milaya🙏",
     "You're the love of my life,",
-    "I Love You So much❤️"
+    "I Love You So much Pranu❤️"
   ];
   const ulEl = document.querySelector("ul");
   const d = new Date();
